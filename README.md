@@ -1,3 +1,5 @@
+This GitHub Pages-based redirect for the rdf.wikipathways.org subdomain is no longer used.
+
 # community-subdomain-template
 
 Template repository for WikiPathways subdomains
